@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="register_lk">Register an Account</string>
+    <string name="forgotID_lk">Forgot user ID?</string>
+    <string name="guest_lk">Login as Guest</string>
+    <string name="benfits_lk">What Benefits? Create an Account Today</string>
+</resources>
